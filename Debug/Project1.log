@@ -1,0 +1,24 @@
+﻿  Main.c
+D:\Grao EEI\4º Curso\1º Cuatrimestre\Sistemas de control en tiempo real\Práctica 1 C\Main.c(24,9): warning C4101: 'rotacion': variable local sin referencia
+D:\Grao EEI\4º Curso\1º Cuatrimestre\Sistemas de control en tiempo real\Práctica 1 C\Main.c(17,9): warning C4101: 'escalar': variable local sin referencia
+D:\Grao EEI\4º Curso\1º Cuatrimestre\Sistemas de control en tiempo real\Práctica 1 C\Main.c(25,9): warning C4101: 'angulorotacion': variable local sin referencia
+D:\Grao EEI\4º Curso\1º Cuatrimestre\Sistemas de control en tiempo real\Práctica 1 C\Main.c(15,9): warning C4101: 'distanciapuntos': variable local sin referencia
+D:\Grao EEI\4º Curso\1º Cuatrimestre\Sistemas de control en tiempo real\Práctica 1 C\Main.c(12,9): warning C4101: 'unitario': variable local sin referencia
+D:\Grao EEI\4º Curso\1º Cuatrimestre\Sistemas de control en tiempo real\Práctica 1 C\Main.c(8,9): warning C4101: 'v': variable local sin referencia
+D:\Grao EEI\4º Curso\1º Cuatrimestre\Sistemas de control en tiempo real\Práctica 1 C\Main.c(16,9): warning C4101: 'realporvector': variable local sin referencia
+D:\Grao EEI\4º Curso\1º Cuatrimestre\Sistemas de control en tiempo real\Práctica 1 C\Main.c(10,9): warning C4101: 'v2': variable local sin referencia
+D:\Grao EEI\4º Curso\1º Cuatrimestre\Sistemas de control en tiempo real\Práctica 1 C\Main.c(14,9): warning C4101: 'resta': variable local sin referencia
+D:\Grao EEI\4º Curso\1º Cuatrimestre\Sistemas de control en tiempo real\Práctica 1 C\Main.c(23,9): warning C4101: 'distanciapr': variable local sin referencia
+D:\Grao EEI\4º Curso\1º Cuatrimestre\Sistemas de control en tiempo real\Práctica 1 C\Main.c(28,9): warning C4101: 'distanciapp': variable local sin referencia
+D:\Grao EEI\4º Curso\1º Cuatrimestre\Sistemas de control en tiempo real\Práctica 1 C\Main.c(21,8): warning C4101: 'p1': variable local sin referencia
+D:\Grao EEI\4º Curso\1º Cuatrimestre\Sistemas de control en tiempo real\Práctica 1 C\Main.c(26,9): warning C4101: 'j': variable local sin referencia
+D:\Grao EEI\4º Curso\1º Cuatrimestre\Sistemas de control en tiempo real\Práctica 1 C\Main.c(26,6): warning C4101: 'i': variable local sin referencia
+D:\Grao EEI\4º Curso\1º Cuatrimestre\Sistemas de control en tiempo real\Práctica 1 C\Main.c(11,9): warning C4101: 'resultadomodulo': variable local sin referencia
+D:\Grao EEI\4º Curso\1º Cuatrimestre\Sistemas de control en tiempo real\Práctica 1 C\Main.c(22,8): warning C4101: 'p2': variable local sin referencia
+D:\Grao EEI\4º Curso\1º Cuatrimestre\Sistemas de control en tiempo real\Práctica 1 C\Main.c(9,9): warning C4101: 'v1': variable local sin referencia
+D:\Grao EEI\4º Curso\1º Cuatrimestre\Sistemas de control en tiempo real\Práctica 1 C\Main.c(13,9): warning C4101: 'suma': variable local sin referencia
+D:\Grao EEI\4º Curso\1º Cuatrimestre\Sistemas de control en tiempo real\Práctica 1 C\Main.c(18,9): warning C4101: 'vectorial': variable local sin referencia
+D:\Grao EEI\4º Curso\1º Cuatrimestre\Sistemas de control en tiempo real\Práctica 1 C\Main.c(20,8): warning C4101: 'r': variable local sin referencia
+D:\Grao EEI\4º Curso\1º Cuatrimestre\Sistemas de control en tiempo real\Práctica 1 C\Main.c(27,8): warning C4101: 'plano': variable local sin referencia
+D:\Grao EEI\4º Curso\1º Cuatrimestre\Sistemas de control en tiempo real\Práctica 1 C\Main.c(19,9): warning C4101: 'angulo': variable local sin referencia
+  Project1.vcxproj -> D:\Grao EEI\4º Curso\1º Cuatrimestre\Sistemas de control en tiempo real\Práctica 1 C\Debug\Project1.exe
